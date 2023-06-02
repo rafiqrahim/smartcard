@@ -838,12 +838,11 @@
     readdirp "^2.2.1"
     upath "^1.1.1"
 
-"@pokusew/pcsclite@^0.6.0":
+"@rafiqrahim/pcsclite@^0.6.0":
   version "0.6.0"
-  resolved "https://registry.yarnpkg.com/@pokusew/pcsclite/-/pcsclite-0.6.0.tgz#30ae3fbf9d1137f2a1b343c32cd8569be581ba2d"
-  integrity sha512-jX7zRXM2Or5Pms1AFjNtawsXDjLiZOzOUo7Sf0put7Pnq/EKIR9g0KvTx62HtwdPpVP6hWHGydUTHgIi9PxodQ==
+  resolved "https://registry.yarnpkg.com/@rafiqrahim/pcsclite/-/pcsclite-0.6.0.tgz#38dec9fc225bf7cab973a20f2fdcedf466f04f0c"
+  integrity sha512-kTVADCphZ3dzdiL2WiibS/dW36YjRz+0V3/H8X74O75l2+D2EZDRVzD2zEZxSMyUrVQ1guUHWXIfEqA/rAV6iw==
   dependencies:
-    bindings "^1.5.0"
     nan "^2.14.0"
 
 ansi-styles@^3.2.1:
@@ -943,13 +942,6 @@ binary-extensions@^2.0.0:
   version "2.2.0"
   resolved "https://registry.yarnpkg.com/binary-extensions/-/binary-extensions-2.2.0.tgz#75f502eeaf9ffde42fc98829645be4ea76bd9e2d"
   integrity sha512-jDctJ/IVQbZoJykoeHbhXpOlNBqGNcwXJKJog42E5HDPUwQTSdjCHdihjj0DlnheQ7blbT6dHOafNAiS8ooQKA==
-
-bindings@^1.5.0:
-  version "1.5.0"
-  resolved "https://registry.yarnpkg.com/bindings/-/bindings-1.5.0.tgz#10353c9e945334bc0511a6d90b38fbc7c9c504df"
-  integrity sha512-p2q/t/mhvuOj/UeLlV6566GD/guowlr0hHxClI0W9m7MWYkL1F0hLo+0Aexs9HSPCtR1SXQ0TD3MMKrXZajbiQ==
-  dependencies:
-    file-uri-to-path "1.0.0"
 
 brace-expansion@^1.1.7:
   version "1.1.11"
@@ -1239,11 +1231,6 @@ fast-safe-stringify@^2.0.7:
   version "2.0.7"
   resolved "https://registry.yarnpkg.com/fast-safe-stringify/-/fast-safe-stringify-2.0.7.tgz#124aa885899261f68aedb42a7c080de9da608743"
   integrity sha512-Utm6CdzT+6xsDk2m8S6uL8VHxNwI6Jub+e9NYTcAms28T84pTa25GJQV9j0CY0N1rM8hK4x6grpF2BQf+2qwVA==
-
-file-uri-to-path@1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/file-uri-to-path/-/file-uri-to-path-1.0.0.tgz#553a7b8446ff6f684359c445f1e37a05dacc33dd"
-  integrity sha512-0Zt+s3L7Vf1biwWZ29aARiVYLx7iMGnEUl9x33fbB/j3jR81u/O2LbqK+Bm1CDSNDKVtJ/YjwY7TUd5SkeLQLw==
 
 fill-range@^4.0.0:
   version "4.0.0"
