@@ -2,7 +2,7 @@
 
 import pino from 'pino';
 
-const pcsclite = require('@pokusew/pcsclite');
+const pcsclite = require('@rafiqrahim/pcsclite');
 import { EventEmitter } from 'events';
 import Device from './Device';
 const logger = pino({ name: 'Devices' });
